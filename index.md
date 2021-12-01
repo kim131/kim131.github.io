@@ -12,7 +12,7 @@
 > 1). import testIcon from 'xxx'
 > const testIcon = require('xxx)
 > <img src={testIcon} alt/>
-> <i style={{background: `url(${testIcon}) center/cover no-repeat`}}>
+> <i style={{background: `url(${testIcon}) center/cover no-repeat`}}/>
 
 ### 数据结构和算法
 
