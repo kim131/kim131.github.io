@@ -10,7 +10,7 @@
 
 > 1.react 中图片引入的几种写法：
 > 1). import testIcon from 'xxx'
-> const testIcon = require('xxx)
+> const testIcon = require('xxx')
 > <img src={testIcon} alt/>
 > <i style={{background: `url(${testIcon}) center/cover no-repeat`}}/>
 
